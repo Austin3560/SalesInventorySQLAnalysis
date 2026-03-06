@@ -1,6 +1,5 @@
 # SalesInventorySQLAnalysis
 
-Gemini said
 Sales & Inventory SQL Analysis Project
 This repository contains a comprehensive SQL analysis of a retail database consisting of customers, products, sales transactions, and inventory levels. The project demonstrates advanced data querying capabilities, including multi-table joins, conditional filtering, date-based analysis, and inventory performance tracking.
 
